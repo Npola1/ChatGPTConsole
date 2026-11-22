@@ -1,0 +1,10 @@
+# Compiled Java output
+*.class
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# macOS metadata
+.DS_Store
